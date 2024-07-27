@@ -1,1 +1,1 @@
-Leveraging React, Next.js and Tailwind CSS to implement modern designs
+Leveraging React alongside Tailwind CSS to implement modern designs
