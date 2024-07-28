@@ -13,7 +13,7 @@ const Contact = () => {
             <div className="grid sm:grid-cols-2 items-center gap-16 p-8 mx-auto max-w-4xl">
                 <div>
                     <h1 className="text-3xl font-extrabold">Let's Talk</h1>
-                    <p className="text-sm mt-3">Have some big idea or brand to develop and need help? Then reach out we'd love to hear about your project  and provide help.</p>
+                    <p className="text-sm mt-3">Have some big idea or brand to develop and need help? Then reach out I'd love to hear about your project  and provide help.</p>
                     <div className="mt-12">
                         <h2 className="text-lg font-extrabold">Email</h2>
                         <ul className="mt-3">
@@ -26,7 +26,7 @@ const Contact = () => {
                                             data-original="#000000" />
                                     </svg>
                                 </div>
-                                <a target="blank" href="https://veilmail.io/e/FkKh7o" className="text-[#ffffff] text-sm ml-3">
+                                <a target="blank" href="mailto:murichustephen@gmail.com" className="text-[#ffffff] text-sm ml-3">
                                     <small className="block">Mail</small>
                                     <strong>murichustephen@gmail.com</strong>
                                 </a>
@@ -37,7 +37,7 @@ const Contact = () => {
                                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18.427 14.768 17.2 13.542a1.733 1.733 0 0 0-2.45 0l-.613.613a1.732 1.732 0 0 1-2.45 0l-1.838-1.84a1.735 1.735 0 0 1 0-2.452l.612-.613a1.735 1.735 0 0 0 0-2.452L9.237 5.572a1.6 1.6 0 0 0-2.45 0c-3.223 3.2-1.702 6.896 1.519 10.117 3.22 3.221 6.914 4.745 10.12 1.535a1.601 1.601 0 0 0 0-2.456Z"/>
                                 </svg>
                                 </div>
-                                <a target="blank" href="https://veilmail.io/e/FkKh7o" className="text-[#ffffff] text-sm ml-3">
+                                <a target="blank" href="tel:+254746341598" className="text-[#ffffff] text-sm ml-3">
                                     <small className="block">Cell Phone</small>
                                     <strong>+2547 46 341598</strong>
                                 </a>
